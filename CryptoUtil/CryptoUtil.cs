@@ -1,4 +1,4 @@
-﻿/*
+/*
     Copyright (c) 2012 Adriel Café <ac@adrielcafe.com>
     GitHub Repository: http://github.com/adrielcafe/CryptoUtil
 */
