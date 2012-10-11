@@ -1,6 +1,6 @@
 CryptoUtil
 ==========
-This utility class allows you to:
+This C# utility class allows you to:
 * Encrypt and decrypt a string using a secret key
 * Get the hash of a string or a file using some of this algorithms: **MD5**, **SHA-1**, **SHA-256**, **SHA-384** or **SHA-512**
 
